@@ -1,0 +1,4 @@
+make test
+make
+make test
+make test

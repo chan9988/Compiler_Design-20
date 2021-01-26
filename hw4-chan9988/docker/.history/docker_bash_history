@@ -1,0 +1,12 @@
+make
+make test
+make
+make
+make test
+make
+make
+make test
+make
+make test
+make
+make test
